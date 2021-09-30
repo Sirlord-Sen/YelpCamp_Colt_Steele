@@ -1,0 +1,20 @@
+.card{
+    margin-bottom: 10px; 
+}
+
+#formInput{
+    width: 30%;
+    margin: 0 auto;
+}
+
+#formDelete{
+    display: inline;
+}
+
+small em{
+    display: block;
+}
+
+#flashMessages{
+    margin-top: 20px;
+}
